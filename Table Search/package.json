@@ -1,0 +1,21 @@
+{
+  "name": "05.table-search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "solution.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "lit-html": "^2.7.5",
+    "mocha": "^10.2.0",
+    "playwright-chromium": "^1.35.1"
+  }
+}
